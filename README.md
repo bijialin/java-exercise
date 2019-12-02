@@ -4,9 +4,6 @@ java exercise project
 
 ### file tree
 ```
-├── README.md
-├── java-exercise.iml
-├── pom.xml
 ├── src
 │   ├── main
 │   │   ├── java
@@ -17,11 +14,16 @@ java exercise project
 │   │   │   │   ├── SemaphoreExercise.java
 │   │   │   │   ├── SynchronizedExercise.java
 │   │   │   │   └── WaitNotifyExercise.java
+│   │   │   ├── designpattern
+│   │   │   │   ├── README.md
+│   │   │   │   └── singleton
+│   │   │   │       ├── DoubleCheckSingleton.java
+│   │   │   │       ├── HungarySingleton.java
+│   │   │   │       ├── InnerSingleton.java
+│   │   │   │       ├── LazySingleton.java
+│   │   │   │       ├── README.md
+│   │   │   │       └── SingleEnum.java
 │   │   │   └── time
 │   │   │       └── LocalDateExercise.java
-│   │   └── resources
-│   └── test
-│       └── java
-
 
 ```
