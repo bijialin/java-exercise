@@ -3,22 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2904723d-e158-40af-b321-6477a1adbcf5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../flutter_1_test/lib/utils/NetUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../nickbihashmap/src/main/java/com/nickbi/nickbihashmap/BitOperation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../nickbihashmap/src/main/java/com/nickbi/nickbihashmap/NickBiMap.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../video-edit/src/main/java/com/nickbi/videoedit/VideoController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MGJ_Router_demo/MGJ_Router_demo.xcworkspace/xcuserdata/wzfc-001.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../MGJ_Router_demo/MGJ_Router_demo.xcworkspace/xcuserdata/wzfc-001.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrent/ExecutorServiceExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrent/ForkJoinExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrent/ReentrantLockExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrent/SemaphoreExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrent/SynchronizedExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrent/WaitNotifyExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designpattern/SingletonExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designpattern/singleton/LazySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/time/LocalDateExercise.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -105,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574730921873</updated>
       <workItem from="1574730923621" duration="2600000" />
-      <workItem from="1575268772571" duration="2600000" />
+      <workItem from="1575268772571" duration="2857000" />
     </task>
     <servers />
   </component>
